@@ -1,1 +1,1 @@
-# athleteNepal
+# AthletesNepal
